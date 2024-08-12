@@ -1,10 +1,10 @@
-# NodeJS-Server-Using-Typescript
+*# NodeJS-Server-Using-Typescript*
 
 Here’s an example of how to create a simple HTTP server in Node.js using TypeScript:
    
-   **
+   
    1. First, you need to create a new directory for your project and navigate to it in the terminal.
-   2. Initialize a new TypeScript project with the following command:**
+   2. Initialize a new TypeScript project with the following command:
 
   > npm init -y
 
